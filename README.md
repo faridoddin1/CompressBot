@@ -1,12 +1,5 @@
 # 🎧 CompressBot 🎥
 
-![Screenshot from 2024-08-10 09-12-16](https://github.com/user-attachments/assets/935c3079-5da2-4bf9-9362-c922b410d1a8)
-
-Welcome to **CompressBot**—your all-in-one Telegram bot for compressing audio and video files with ease! 🚀
-
-## 🌟 Features
-
-- **Compress Audio 🎧**: Convert and compress your audio files to a smaller size while maintaining good quality.
 - **Compress Video 🎥**: Reduce the size of your video files with efficient compression without significant loss in quality.
 - **User-Friendly**: Simple commands and easy-to-use interface.
 - **Fast Processing ⚡**: Get your compressed files quickly.
