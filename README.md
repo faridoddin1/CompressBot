@@ -10,7 +10,7 @@ Follow these steps to set up the bot locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/superhexa/CompressBot.git
+   git clone https://github.com/faridoddin1/CompressBot.git
    cd CompressBot
    ```
 
